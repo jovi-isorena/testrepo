@@ -31,3 +31,5 @@ client/yarn-error.log*
 client/.next
 client/yarn.lock
 client/.vercel
+client/notes.txt
+
